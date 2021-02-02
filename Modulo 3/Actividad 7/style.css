@@ -1,0 +1,47 @@
+.gentle-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1ch;
+}
+
+.xwing {
+    position: absolute;
+    top: 30%;
+    left: 48%;
+}
+
+.c-imagen {
+    width: 80vw;
+    height: 60vh;
+}
+
+.c-control {
+    margin-top: 5vh;
+    width: 80vw;
+    height: 20vh;
+}
+
+.arrow {
+    width: 50px;
+    cursor: pointer;
+}
+
+.arrow:hover {
+    background-color: lightcoral;
+    border-radius: 50%;
+    padding: 0.5rem;
+}
+
+.r {
+    transform: rotate(180deg);
+}
+
+.u {
+    transform: rotate(90deg);
+}
+
+.d {
+    transform: rotate(270deg);
+}

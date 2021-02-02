@@ -1,0 +1,11 @@
+.imagen {
+    max-width: 350px;
+}
+
+.boton {
+    margin-top: 5rem;
+}
+
+.hide {
+    display: none;
+}
